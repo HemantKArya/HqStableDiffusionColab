@@ -43,7 +43,7 @@ SwinIR achieves state-of-the-art performance on six tasks: image super-resolutio
 [![GitHub Stars](https://img.shields.io/github/stars/TencentARC/GFPGAN?style=social)](https://github.com/TencentARC/GFPGAN)
 [![download](https://img.shields.io/github/downloads/TencentARC/GFPGAN/total.svg)](https://github.com/TencentARC/GFPGAN/releases)
 
-## GFPGAN - Towards Real-World Blind Face Restoration with Generative Facial Prior
+## **GFPGAN** - Towards Real-World Blind Face Restoration with Generative Facial Prior
 
 GFPGAN is a blind face restoration algorithm towards real-world face images. <br>
 It leverages the generative face prior in a pre-trained GAN (*e.g.*, StyleGAN2) to restore realistic faces while precerving fidelity. <br>
