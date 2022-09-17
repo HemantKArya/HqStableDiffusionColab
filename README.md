@@ -1,4 +1,4 @@
-# **High Quality Text to Image Generation using Stable Diffusion,Real-ESR and Swin IR**
+# **High Quality Text to Image Generation using Stable Diffusion, GFPGAN Face Restoration,Real-ESR and Swin IR**
 
 [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HemantKArya/HqStableDiffusionColab/blob/main/HighQuality_Text2Image_Stable_Diffusion_ls.ipynb)
 
