@@ -8,10 +8,7 @@ Steps:-
 1. Create Account at https://huggingface.co/ (don't worry it's easy 😅)
 2. Visit https://huggingface.co/CompVis/stable-diffusion-v1-4 and down in the page tick the checkbox and then click submit.
 3. Get Your Access Token from https://huggingface.co/settings/tokens and use it in 4th code cell of colab notebook.
-
-Visit Logical Spot for Video Help:-
-
- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/LogicalSpot)
+ 
  
  After Running first 4 cells, You will going to see output like this.
 ![exm1](./doc/sc7.png)
@@ -54,6 +51,9 @@ Using both Optional cell at the last of notebook.
 **Input Images ------ Upscaled Images(SwinIR) ----- Upscaled Images(RealESRGAN)**
 ![index5](./doc/index35.png)
 
+Visit Logical Spot for Video Help:-
+
+ [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/LogicalSpot)
  
  
  # **Stable Diffusion** 🎨 
