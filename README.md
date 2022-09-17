@@ -1,6 +1,7 @@
 # **High Quality Text to Image Generation using Stable Diffusion, GFPGAN Face Restoration,Real-ESR and Swin IR**
 
 [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HemantKArya/HqStableDiffusionColab/blob/main/HighQuality_Text2Image_Stable_Diffusion_ls.ipynb)
+[![banner](./doc/bannerls.jpg)](https://www.instagram.com/iamhemantindia)
 
 Generate 4K and FULL HD Images and Artworks for Free Using Stable Diffusion. Don't Forget to give Start at Github and Support Original Authors too 😊.
 Steps:-
