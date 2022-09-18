@@ -1,5 +1,6 @@
 # **High Quality Text to Image Generation using Stable Diffusion, GFPGAN Face Restoration,Real-ESR and Swin IR**
 
+
 [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HemantKArya/HqStableDiffusionColab/blob/main/HighQuality_Text2Image_Stable_Diffusion_ls.ipynb)
 [![banner](./doc/bannerls.jpg)](https://www.instagram.com/iamhemantindia)
 
@@ -8,7 +9,7 @@ Steps:-
 1. Create Account at https://huggingface.co/ (don't worry it's easy 😅)
 2. Visit https://huggingface.co/CompVis/stable-diffusion-v1-4 and down in the page tick the checkbox and then click submit.
 3. Get Your Access Token from https://huggingface.co/settings/tokens and use it in 4th code cell of colab notebook.
- 
+4. For Upscale Only goto RealESR Notebook (4K Upscale)[![open in colabesr](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HemantKArya/HqStableDiffusionColab/blob/main/RealESR_Upscale.ipynb)
  
  After Running first 4 cells, You will going to see output like this.
 ![exm1](./doc/sc7.png)
@@ -70,6 +71,8 @@ orignal-link to colab https://colab.research.google.com/github/huggingface/noteb
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2107.10833)
 [![GitHub Stars](https://img.shields.io/github/stars/xinntao/Real-ESRGAN?style=social)](https://github.com/xinntao/Real-ESRGAN)
 [![download](https://img.shields.io/github/downloads/xinntao/Real-ESRGAN/total.svg)](https://github.com/xinntao/Real-ESRGAN/releases)
+[![open in colabesr](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HemantKArya/HqStableDiffusionColab/blob/main/RealESR_Upscale.ipynb)
+ 
 
 Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.We extend the powerful ESRGAN to a practical restoration application (namely, Real-ESRGAN), which is trained with pure synthetic data.
 
