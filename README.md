@@ -4,7 +4,7 @@
 [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HemantKArya/HqStableDiffusionColab/blob/main/HighQuality_Text2Image_Stable_Diffusion_ls.ipynb)
 [![banner](./doc/bannerls.jpg)](https://www.instagram.com/iamhemantindia)
 
-Generate 4K and FULL HD Images and Artworks for Free Using Stable Diffusion. Don't Forget to give Start at Github and Support Original Authors too 😊.
+Generate 4K and FULL HD Images and Artworks for Free Using Stable Diffusion. Don't Forget to give Star at Github and Support Original Authors too 😊.
 Steps:-
 1. Create Account at https://huggingface.co/ (don't worry it's easy 😅)
 2. Visit https://huggingface.co/CompVis/stable-diffusion-v1-4 and down in the page tick the checkbox and then click submit.
