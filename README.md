@@ -4,41 +4,17 @@
 [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HemantKArya/HqStableDiffusionColab/blob/main/HighQuality_Text2Image_Stable_Diffusion_ls.ipynb)
 [![banner](./doc/bannerls.jpg)](https://www.instagram.com/iamhemantindia)
 
-Generate 4K and FULL HD Images and Artworks for Free Using Stable Diffusion. Don't Forget to give Star at Github and Support Original Authors too 😊.
-Steps:-
-1. Create Account at https://huggingface.co/ (don't worry it's easy 😅)
-2. Visit https://huggingface.co/CompVis/stable-diffusion-v1-4 and down in the page tick the checkbox and then click submit.
-3. Get Your Access Token from https://huggingface.co/settings/tokens and use it in 4th code cell of colab notebook.
-4. For Upscale Only goto RealESR Notebook (4K Upscale)[![open in colabesr](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HemantKArya/HqStableDiffusionColab/blob/main/RealESR_Upscale.ipynb)
+Generate 4K and FULL HD Images and Artworks for Free Using Stable Diffusion.
+
+## No Need to generate token key for genrating images from huggingface...
+
+For Upscale Only goto RealESR Notebook (4K Upscale)[![open in colabesr](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HemantKArya/HqStableDiffusionColab/blob/main/RealESR_Upscale.ipynb)
  
- After Running first 4 cells, You will going to see output like this.
-![exm1](./doc/sc7.png)
-
-click this link after creating account in [HuggingFace](https://huggingface.co/) to get your [HuggingFace Token](https://huggingface.co/settings/tokens). 
-![exm3](./doc/sc8.png)
-And Hit Login Button. If you don't have any token then create new token with write access.
-
 Run All the cell until you Reach your Prompt cell.
-![prmptimg](./doc/sc9.png)
-Type your Prompt under this cell, inside ``["your prompt is here"]``. and hit ``Shift + Enter``, Run Next cell too to generate Images.
-Run this cell as many as time you want, until you get your desired artwork. And here is my Results.
-![index31](./doc/index31.png)
-If Stable Diffusion generate something off in image, Dont't Worry!! Run next cell or if you already got satisfied result you may **leave next two cell**. But here is what i got after running next cell.
-![sc](./doc/sc2.png)
-![index2](./doc/index32.png)
-Here you can only make difference between them if you look closely. You don't have to bother you notebook if you already got better result in first generation with 50 steps. just ignore this cell.
-like i'm leaving this cell as it is.
-![sc](./doc/sc10.png)
-and leaving this cell too cause these images don't have any human face. **Note: if your images have Human faces, then just run this cell too**.
-![scface](./doc/sc3.png)
-
-
  ***In case if you have any human face in your images then it will restore Distorted figures(like eyes,nose,etc) in images, here is example.***  **In Stable Diffusin her Eyes and Lips are bit distorted.**
  ![indexface](./doc/indexface.jpg)
 
-
-
-Now it's time to upscale images to 2K or 4k using Real-ESR GAN.
+To upscale images to 2K or 4k using Real-ESR GAN. Note that after running Reasl-ESRGAN leave SwinIR until unless you are not satisfied with RealESR results.
 ![scupesr](./doc/sc4.png)
 after running this cell you will get a comparison matrix like this.
 
@@ -47,7 +23,7 @@ after running this cell you will get a comparison matrix like this.
 
 After Upscaling you images using Real-ESRGAN rest of the cell are optional to run and not recommended (Cause limited GPU RAM in Colab, After running these cell may be it will show you error like ``cuda out of memory``) to run until you are not satisfied with result of Upscaled images of Real-ESR.
 right Now I am going to show you difference b/w both Upscalers.
-Using both Optional cell at the last of notebook.
+Using both Optional cell at the last of notebook. (It may full your current colab RAM)
 
 **Input Images ------ Upscaled Images(SwinIR) ----- Upscaled Images(RealESRGAN)**
 ![index5](./doc/index35.png)
