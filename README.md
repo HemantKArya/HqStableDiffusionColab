@@ -7,6 +7,8 @@
 Generate 4K and FULL HD Images and Artworks for Free Using Stable Diffusion.
 
 ## No Need to generate token key for genrating images from huggingface...
+Link to Coalb Notebook [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HemantKArya/HqStableDiffusionColab/blob/main/HighQuality_Text2Image_Stable_Diffusion_ls.ipynb)
+
 
 For Upscale Only goto RealESR Notebook (4K Upscale)[![open in colabesr](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HemantKArya/HqStableDiffusionColab/blob/main/RealESR_Upscale.ipynb)
  
